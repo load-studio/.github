@@ -15,6 +15,6 @@
 
 <br>
 
-<img src="https://github-act-graph.rodriaum.com/graph?organization=StudioLoad&bg_color=09090b&color=fafafa&line=d946ef&point=a855f7&area=true&hide_border=true&type=gradient" alt="Load Studio's Activity Graph" />
+<img src="https://github-act-graph.rodriaum.com/graph?organization=StudioLoad&bg_color=09090b&color=fafafa&line=d946ef&point=a855f7&area=true&hide_border=true&type=gradient&v=2" alt="Load Studio's Activity Graph" />
 
 </div>
